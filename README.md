@@ -26,7 +26,7 @@ The OSIAC (One Step Intermediate Automatic Computer) simulator provides a platfo
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/kennygoooo/OSIAC-Computer-Simulator.git]
+    git clone https://github.com/kennygoooo/OSIAC-Computer-Simulator.git
     cd OSIAC-Computer-Simulator
     ```
 

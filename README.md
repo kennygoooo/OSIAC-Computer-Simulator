@@ -26,14 +26,14 @@ The OSIAC (One Step Intermediate Automatic Computer) simulator provides a platfo
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/Heatwave591/OSIAC-Computer-Simulator.git](https://www.google.com/search?q=https://github.com/Heatwave591/OSIAC-Computer-Simulator.git)
+    git clone [https://github.com/kennygoooo/OSIAC-Computer-Simulator.git](https://www.google.com/search?q=https://github.com/kennygoooo/OSIAC-Computer-Simulator.git)
     cd OSIAC-Computer-Simulator
     ```
 
 2.  Enter the Directory
 
     ```bash
-    cd OSIAC-Computer-Simulator/MachineProblem1
+    cd OSIAC-Computer-Simulator
     ```
 
 
@@ -43,7 +43,7 @@ The OSIAC (One Step Intermediate Automatic Computer) simulator provides a platfo
 2.  Run the simulator:
 
     ```bash
-    ./dosim mp1-specs.dat test1
+    ./dosim mp4-specs.dat test4
     ```
     Change the directory and file names accordingly
 
